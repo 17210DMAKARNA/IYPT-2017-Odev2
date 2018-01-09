@@ -37,9 +37,10 @@ Domino dalgasının devrilme hızı ile ilgili yapmış olduğumuz çalışmamı
 Deney düzeyimizde üçayağın ucuna bir ip ve ipin ucuna da bir top bağlıdır.Bu top belli bir yükseklikbırakıldığında dizilmiş olan domino taşlarına çarparak onları devirir.Deneyde sarkaç düzeneğini kurduktan sonra düzeneğin yanına cetvel kullanarak belli aralıklarla dominolar dizdik.Daha sonra sarkaç düzeneği ile dominoları vururken bir yandan telefonun kronometresiyle süre tutup farklı aralık ve farklı domino miktarıyla yaptığımız deneylerin süreleriyle karşılaştırdık.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+Yaptığımız deney sonucunda şu sonuçları bulduk.
+1.1'er cm arayla dizilmiş 10 domino. Süre 00:00:23
+2.2'şer cm arayla dizilmiş 10 domino. Süre 00:00:31
+3.1!er cm arayla dizilmiş 20 domino. Süre 00:00:50
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
