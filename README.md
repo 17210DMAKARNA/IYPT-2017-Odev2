@@ -25,26 +25,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet (Abstract)
  Domino etkisi hemen hemen herkesçe bilinen bir şeydir.Bizim projedeki amacımız da bu çok ünlü domino dalgasının en kısa sürede gerçekleşebileceğini bulmak;domino ağırlıklarının,domino taşlarının arasındaki mesafelerin,domino taşı sayısının,uygulanan kuvvetin büyüklüğünün,kuvvet uygulanan yüzeyin boyutunun vb. hıza olan etkisini gözlemlemek;böylece mümkün olan en iyi domino dalgası için en uygun koşulları bulmak ve bunu meraklı insanlarla paylaşmaktır.Bu projeyi gerçekleştirmek için kullanacağımız malzemeler:üçayak,ip,çeşitli boyut ve ağırlıklarda dominolardır.Bu deneyi yaparken üçayağa bağlanacak bir ip ve ipin ucuna bağlanacak bir top ile kurulan bir sarkaç düzeneğinin yanına belirli aralıklarla dizilen domino taşlarını sarkaç ile devireceğiz ve bunu yaparken bir yandan da süre tutacak ve ölçtüğümüz süreyi not edeciğiz.Daha sonra ise aynı işlemi farklı ağırlıkta domino taşlarıyla,farklı boyuttaki topla,farklı büyüklükteki kuvvetle,domino taşlarını farklı aralıklarla dizerek ve farklı sayıdaki domino taşlarıyla tekrar edeceğiz.Bunları yaptıktan sonra ölçtüğümüz süreleri karşılaştırıp domino dalgasını en kısa sürede gerçekleştirmeye çalışacağız.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Deneydeki amacımız bir domino serisini en hızlı nasıl devirebiliriz? sorusuna cevap bulmaktır.Malzemeleriz tabii kide çeşit çeşit Dominolar,herseferinde belirli bir kuvvet uygulayabilmek için Üçayaklı sarkaç,Açıölçer,zamanı ölçmek için bir Telefondur.Kaynaklarımız ise IYPT arşivindeki Rusça ve İngilizce projeler,internetteki çeşitli kaynaklardır. Linklerini alta bırakıyorum.
+
 # Materyal ve Yöntem (Experimental Setup)
 Domino dalgasının devrilme hızı ile ilgili yapmış olduğumuz çalışmamızda deney yöntemini kullandık.Bu deneyi gerçekleştirdiğimiz ortam okulumuzun 10/D sınıfının öğretmen masasıdır.Deney yaklaşık yarım saat sürmüştür.Yaklaşık yirmi kere kadar farklı aralık ve farklı domino sayılarıyla tekrar edilmiştir.Deneyi yapan kişiler Muhammet Ali,Zeynepve Amilla'dır.Bu deneyde bize yardım eden kişiler ise Batu,Heval ve Şamil'dir.Verileri toplarken kullandığımız malzemeler:
 ^Farklı ağırlık ve boyutlarda dominolar
