@@ -1,1 +1,5 @@
-Buraya deney resimlerinizi ve grafiklerinizi koyunuz. 
+Buraya deney resimlerinizi ve grafiklerinizi koyunuz.
+
+
+
+
